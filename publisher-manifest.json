@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "6feb26b7c44e30b0204c5f1d",
+  "owner": "bjdqkn",
+  "repo": "page-dc30a24ebddc014132358e31",
+  "title": "NTTSS",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "dc30a24ebddc014132358e31",
+      "a": "NTTSS",
+      "b": "稳定全球clash加速器",
+      "entity": "NTTSS",
+      "brand": "NTTSS",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "049b19f544a6fd749e779d98160f2e38347427f75df75f520f0db6ffbb6be8b8",
+      "content": {
+        "primary_entity": "NTTSS",
+        "keyword1": "NTTSS",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，围绕多设备订阅与套餐对比展开，帮助用户按终端数量、流量需求与线路偏好选择合适方案。基础版适合单人手机与电脑少量设备，旗舰版增加 IPLC 专线与流媒体节点，团队版面向多成员共享与定制路由场景。",
+          "AI_HERO_SUBTITLE": "NTTSS 多设备订阅灵活选",
+          "AI_HERO_INTRO": "NTTSS 面向日常海外访问与游戏加速场景，提供可多设备在线的订阅方案。用户可依据设备数量、月流量与线路类型，在基础版、旗舰版与团队版之间按需选择，完成客户端配置后即可使用。",
+          "AI_VISUAL_TITLE": "NTTSS 订阅套餐速览",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖单人至团队",
+          "AI_HIGHLIGHT_2": "基础版月付 ¥15 起",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 专线优化",
+          "AI_FEATURES_TITLE": "订阅选择要点",
+          "AI_FEATURES_INTRO": "从设备数量、流量额度与计费周期三个角度快速判断适合的档位。",
+          "AI_FEATURE_TITLE_1": "按设备数量选档",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版可支持 20 台设备同时在线。",
+          "AI_FEATURE_TITLE_2": "按月流量匹配",
+          "AI_FEATURE_TEXT_2": "每月 100GB、300GB 到 1000GB 三档流量，重度使用可选团队版。",
+          "AI_FEATURE_TITLE_3": "年付更省费用",
+          "AI_FEATURE_TEXT_3": "基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850，适合长期稳定使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同系统可选择对应客户端，完成订阅导入后按设备适配情况使用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，可按流量与设备数直接比较。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_GUIDE_INTRO": "先选服务，再确认设备适配，最后按客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量，在基础版、旗舰版或团队版中选定方案。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备与系统对应的客户端，了解订阅导入方式与在线设备上限。",
+          "AI_STEP_TITLE_3": "依客户端文档配置",
+          "AI_STEP_TEXT_3": "打开对应客户端，按照文档说明添加订阅地址，完成后按需切换节点使用。",
+          "AI_CLOSING_TITLE": "选对档位更省心",
+          "AI_CLOSING_TEXT": "按设备与流量挑一档，配置好订阅即可开始使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "NTTSS 支持多少台设备同时使用？",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。如需更多设备，可选择更高档位。",
+          "AI_FAQ_QUESTION_2": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_2": "月付按月灵活续费，年付在总价上更划算。基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850，年付适合长期稳定使用的用户。",
+          "AI_FAQ_QUESTION_3": "订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_3": "先按设备类型选择对应客户端，再依照该客户端的订阅导入说明操作。通常需要复制订阅链接后粘贴到客户端配置中。",
+          "AI_FAQ_QUESTION_4": "旗舰版的专线优化适合什么场景？",
+          "AI_FAQ_ANSWER_4": "旗舰版包含 IPLC 专线游戏加速优化和全节点原生流媒体解锁，适合对延迟和流媒体体验有较高要求的用户。",
+          "AI_FAQ_QUESTION_5": "团队版支持定制路由吗？",
+          "AI_FAQ_ANSWER_5": "团队版支持企业定制路由，并提供 VIP 高带宽节点和专属客户经理服务，适合设备多、流量大的团队使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "huayizi.cn",
+    "host": "huayizi.cn"
+  },
+  "file_hashes": {
+    "index.html": "f236f0b4ef6633180572634fa0333ee4c255914e47b1ea506336d01c8738890e",
+    "sitemap.xml": "ea8e4d33b9ed12e246babf87bda47d1eb9a9412a28b2e87aa3d442d267b07023",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "3056eda68e2641576b8389b183f656a2611c7b745fec9242cb1f65b76c1245dc",
+    "robots.txt": "f9d7837fde2c4158d738b37077c66f76a4fdda88e9d1d85d7833abe78fea9cb0",
+    "7692906e6f371e4c4d28b99eb6273afa.txt": "3137ca0765ce10810f7bb19e87a9dbdbc1436f2c603a788e18b4dbc74c2c029e"
+  },
+  "revision": "d016ecdd701d5c9993141d51d06ba2c82ee2ba89c4e9308e588593c12dbdde66"
+}
